@@ -1,5 +1,5 @@
 # React Counter with Hooks App
-Simple toy demo app that shows a React.js with Hooks project that increments or decrements a number on button click. Purely for coding practice.  Uses the magnificent Bulma CSS framework and FontAwesome 5 icons for styling.  Enjopy! 
+Simple toy demo app that shows a React.js with Hooks project that increments or decrements a number on button click. Purely for coding practice.  Uses the magnificent Bulma CSS framework and FontAwesome 5 icons for styling.  Enjoy! 
 
 Live **Site Demo** ~ [React Counter with Hooks](http://reactcounterapp.ryanhunter.ca/) 
 
